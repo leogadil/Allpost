@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/leogadil/Allpost">
-    <img src="images/logo.png" alt="Logo" width="400" height="100">
+    <img src="images/logo.png" alt="Logo" width="400" height="120">
   </a>
 
   <h3 align="center">AllPost</h3>

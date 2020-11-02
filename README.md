@@ -38,10 +38,10 @@
   <p align="center">
     AllPost allows you to post to all your social media platform on a push of a button
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template" disabled><strong>Explore the docs »</strong></a>
+    <a href="" disabled><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template" disabled>View Demo</a>
+    <a href="" disabled>View Demo</a>
     ·
     <a href="https://github.com/leogadil/Allpost/issues">Report Bug</a>
     ·
